@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zackaria!</h1>
-<h3 align="left">I'm a software developer, educator, and community builder who approaches every challenge as an opportunity to dream. My insatiable curiosity and passion for learning drives a never ending pursuit of growth through exploration. I strongly believe that success is the commitment to never giving up! </h3>
+<h3 align="center">I'm a software developer, educator, and community builder who approaches every challenge as an opportunity to dream. My insatiable curiosity and passion for learning drives a never ending pursuit of growth through exploration. I strongly believe that success is the commitment to never giving up! </h3>
 
 -  I’m currently working on a client project at Prime Digital Academy.
 
