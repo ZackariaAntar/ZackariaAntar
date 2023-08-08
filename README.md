@@ -9,7 +9,7 @@
 
 - How to reach me **antarzack@gmail.com**
 
-- Fun facts: **When I'm not coding, I'm more than likely engaged in sewing, woodworking, and/or home improvement project, fixing my moped, playing D&D, or hosting backyard karaoke parties.**
+- Fun facts: **When I'm not coding, I'm more than likely engaged in sewing, woodworking, home improvement project, fixing my moped, playing D&D, and/or hosting backyard karaoke parties.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
