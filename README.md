@@ -3,9 +3,9 @@
 
 - I recently graduated from [Prime Digital Academy](https://github.com/PrimeAcademy) and currently seeking opportunities to grow my career in fullstack software engineering.
 
-- I’m currently learning **React Native, OAuth2, and Serverless Architecture**
+- I’m currently learning **React Native, OAuth2, and Serverless Architecture**.
 
-- I’m open to collaborating on **anything and everything!**
+- I’m open to collaborating on **anything and everything!** 
 
 - How to reach me **antarzack@gmail.com**
 
