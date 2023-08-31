@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Zackaria!</h1>
 <h3 align="center">I'm a software developer, educator, and community builder who approaches every challenge as an opportunity to dream. My insatiable curiosity and passion for learning drives a never ending pursuit of growth through exploration. I strongly believe that success is the commitment to never giving up! </h3>
 
-- I recently graduated from [Prime Digital Academy](https://github.com/PrimeAcademy) and seeking opportunities to grow my career in software engineering.
+- I recently graduated from [Prime Digital Academy](https://github.com/PrimeAcademy) and currently seeking opportunities to grow my career in fullstack software engineering.
 
-- I’m currently learning **JavaScript and React.**
+- I’m currently learning **React Native, OAuth2, and Serverless Architecture**
 
-- I’m looking to collaborate on **anything and everything!**
+- I’m open to collaborating on **anything and everything!**
 
 - How to reach me **antarzack@gmail.com**
 
